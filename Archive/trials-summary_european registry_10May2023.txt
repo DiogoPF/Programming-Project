@@ -1,0 +1,244 @@
+
+
+EudraCT Number:          2015-003910-26
+Sponsor Protocol Number: 01/2015
+Sponsor Name:            Núcleo de Estudos de Hipertensão da Beira Interior
+Full Title:              Fase II, unicenter, open, randomized trial to evaluate the response of Th17 and T regulatory lymphocytes to 24 weeks supplementation with cholecalciferol in patients with arterial hypertension, obe...
+Start Date:              2017-12-11
+Medical condition:       Obesity associated arterial hypertension
+Metabolic syndrome associated arterial hypertension
+Disease:
+Population Age:          Adults
+Gender:                  Male, Female
+Trial protocol:          PT(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-003910-26
+
+EudraCT Number:          2017-003659-52
+Sponsor Protocol Number: PULSE
+Sponsor Name:            António Robalo Nunes
+Full Title:              Impact of Iron Deficiency treatment with intravenous ferric carboxymaltose in patients with Chronic Obstructive Pulmonary Disease: an open-label, randomized, 2-arm, no treatment control, parallel s...
+Start Date:              2018-04-02
+Medical condition:       Chronic Obstructive Pulmonary Disease and Iron Deficiency
+Disease:                 Version: 20.0, SOC Term: 10038738 - Respiratory, thoracic and mediastinal disorders, Classification Code: 10009033, Term: Chronic obstructive pulmonary disease, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-003659-52
+
+EudraCT Number:          2006-006889-42
+Sponsor Protocol Number: FCM 01–FARM01
+Sponsor Name:            Faculdade de Ciências Médicas – Universidade Nova de Lisboa
+Full Title:              Exploratory, double blind placebo controlled, randomized, single cross-over study to evaluate the potential anti-oxidant action of Niaspan
+Start Date:              2007-07-18
+Medical condition:       Hypercholesterolemia
+Disease:                 Version: 9.1, SOC Term: , Classification Code: 10020604, Term: Hypercholesterolemia, Level: LLT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Prematurely Ended) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2006-006889-42
+
+EudraCT Number:          2007-004980-23
+Sponsor Protocol Number: P05134
+Sponsor Name:            Schering-Plough Farma, Lda.
+Full Title:              Double-Blind evaluation of the safety and efficacy of Quadriderme cream (betamethasone dipropionate, clotrimazole and gentamicin sulphate ) compare with betamethasone dipropionate combined with gen...
+Start Date:              2008-05-05
+Medical condition:       Impetiginous Eczema
+Disease:                 Version: 9.1, SOC Term: , Classification Code: 10051890, Term: Eczema impetiginous, Level: LLT
+Population Age:          Adolescents, Under 18, Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Prematurely Ended) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2007-004980-23
+
+EudraCT Number:          2006-000537-35
+Sponsor Protocol Number: 07/2006
+Sponsor Name:            Portuguese Lung Cancer Study Group
+Full Title:              Open-label, Uncontrolled, Multicenter, Phase II study evaluating the efficacy and safety of Cetuximab in combination with Cisplatin & Gemcitabine as first-line therapy in patients with advanced non...
+Start Date:              2006-08-04
+Medical condition:       Non small cell lung cancer
+Disease:
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2006-000537-35
+
+EudraCT Number:          2014-003262-25
+Sponsor Protocol Number: MK8259-022
+Sponsor Name:            Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
+Full Title:              An open label, single group assignment design study to correlate soluble ST2 with clinical, endoscopic and histological activity in moderate to severe Ulcerative Colitis patients under golimumab
+Start Date:              2014-12-12
+Medical condition:       Ulcerative Colitis
+Disease:                 Version: 20.1, SOC Term: 100000004856, Classification Code: 10045365, Term: Ulcerative colitis, Level: LLT
+Population Age:          Adults
+Gender:                  Male, Female
+Trial protocol:          PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2014-003262-25
+
+EudraCT Number:          2005-004373-23
+Sponsor Protocol Number: ROV-BEM-2003-02
+Sponsor Name:            LABORATORIOS FARMACEUTICOS ROVI, S.A.
+Full Title:              MULTICENTRIC, RANDOMISED, DOUBLE BLIND, PLACEBO CONTROLLED CLINICAL TRIAL TO EVALUATE THE EFFICACY AND THE SAFETY OF THE PROPHYLAXIS WITH BEMIPARIN 3,500 IU/day FOR 28 DAYS COMPARED TO 8 DAYS, IN V...
+Start Date:              2007-08-14
+Medical condition:       VENOUS THROMBOEMBOLIC DISEASE IN PATIENTS UNDERGOING ONCOLOGICAL ABDOMINAL OR PELVIC SURGERY 
+Disease:                 Version: 6.1, SOC Term: , Classification Code: 10043640, Term: , Level: LLT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2005-004373-23
+
+EudraCT Number:          2006-000071-15
+Sponsor Protocol Number: EMD-05-03
+Sponsor Name:            Alcon Laboratories Inc.
+Full Title:              Study of the Efficacy and Safety of Travatan Therapy compared with Cosopt Therapy in Patients with Open-Angle Glaucoma or Ocular Hypertension. 
+Start Date:              2007-02-06
+Medical condition:       Open-Angle Glaucoma or Ocular Hypertension
+Disease:                 Version: 8.1, SOC Term: , Classification Code: 10030043, Term: Ocular hypertension, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Prematurely Ended) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2006-000071-15
+
+EudraCT Number:          2008-008282-36
+Sponsor Protocol Number: GPICD–CR–0801
+Sponsor Name:            Grupo de Investigação do Cancro Digestivo
+Full Title:              Randomized, open-label phase II study evaluating the safety and efficacy of Cetuximab plus modified FOLFOX - 6 versus modified FOLFOX - 6 alone as 2nd line therapy after progression on the 1st line...
+Start Date:              2010-05-07
+Medical condition:       Colorectal cancer KRAS wild-type
+Disease:
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Prematurely Ended) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2008-008282-36
+
+EudraCT Number:          2010-018254-12
+Sponsor Protocol Number: A0221090
+Sponsor Name:            Pfizer, Inc
+Full Title:              A LOCAL, MULTICENTRE, OPEN-LABEL, EXTENSION TRIAL TO EVALUATE THE EFFICACY AND SAFETY OF FESOTERODINE FLEXIBLE DOSE REGIMEN IN ELDERLY PATIENTS WITH OVERACTIVE BLADDER
+Start Date:              2010-03-16
+Medical condition:       Treatment of overactive bladder with symptoms of frequency, urgency, and urgency
+incontinence (Some patients will also have urgency urinary incontinence (UUI)).
+Disease:                 Version: 9.1, SOC Term: , Classification Code: 10059617, Term: Overactive bladder, Level: LLT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2010-018254-12
+
+EudraCT Number:          2009-014409-15
+Sponsor Protocol Number: CRFB002DPT04T
+Sponsor Name:            AIBILI - Association for Innovation and Biomedical Research on Light and Image
+Full Title:              Prospective, randomized, multicenter, open label phase II study to access efficacy and safety of Lucentis monotherapy (ranibizumab 0.5 mg intravitreal injections) compared with Lucentis plus panret...
+Start Date:              2010-01-08
+Medical condition:       Proliferative Diabetic Retinopathy.
+Disease:                 Version: 12.0, SOC Term: , Classification Code: 10036857, Term: Proliferative diabetic retinopathy, Level: LLT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2009-014409-15
+
+EudraCT Number:          2007-007257-31
+Sponsor Protocol Number: GIC/468
+Sponsor Name:            IPOLFG
+Full Title:              Open-label, single arm, phase II study for evaluation of complete response rate at surgery after NEOadjuvant treatment with SUnitinib and docetaxel in patients with newly diagnosed large operable o...
+Start Date:              2008-11-07
+Medical condition:       large operable and locally advanced breast cancer
+Disease:                 Version: 9.1, SOC Term: , Classification Code: 10006187, Term: Breast cancer, Level: LLT
+Population Age:          Adults, Elderly
+Gender:                  Female
+Trial protocol:          PT(Prematurely Ended) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2007-007257-31
+
+EudraCT Number:          2010-020302-15
+Sponsor Protocol Number: TOACT
+Sponsor Name:            IMM - Instituto de Medicina Molecular
+Full Title:              
+Start Date:              2011-10-14
+Medical condition:       Cerebral venous thrombosis
+Disease:                 Version: 14.0, SOC Term: 10029205 - Nervous system disorders, Classification Code: 10008138, Term: Cerebral venous thrombosis, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2010-020302-15
+
+EudraCT Number:          2015-004275-70
+Sponsor Protocol Number: GPD-01-01
+Sponsor Name:            Gene PreDiT SA
+Full Title:              Influence of single nucleotide polymorphisms of carboxypeptidase D (CPD) gene on body weight and fat mass reduction by perindopril in obese subjects: A phase II, multicenter, double-blind study.
+Start Date:              2016-01-08
+Medical condition:       Body weight and fat mass reduction by perindopril in obese subjects
+Disease:
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Prematurely Ended) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-004275-70
+
+EudraCT Number:          2009-012218-30
+Sponsor Protocol Number: ML22648
+Sponsor Name:            Roche Farmacêutica Química, Lda.
+Full Title:              A randomized, double-blind, placebo-controlled study to assess the efficacy of tocilizumab (TCZ) + non-biological DMARD in reducing synovitis as measured by magnetic resonance imaging (MRI) at 12 w...
+Start Date:              2009-10-06
+Medical condition:       Men and women > 18 years of age with RA who are currently experiencing an inadequate clinical response to a stable dose of non-biologic DMARDs (at least 12 weeks) and with MRI documented synovitis ...
+Disease:
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2009-012218-30
+
+EudraCT Number:          2011-000877-29
+Sponsor Protocol Number: GEOS-01-2011
+Sponsor Name:            Grupo de Estudos Oncológicos
+Full Title:              Phase III clinical trial for evaluation of prophylactic treatment with minocycline versus reactive treatment of dermatological toxicity secondary to cetuximab in patients with metastatic colorectal...
+Start Date:              2011-12-02
+Medical condition:       
+Disease:                 Version: 13.1, SOC Term: 10040785 - Skin and subcutaneous tissue disorders, Classification Code: 10037844, Term: Rash, Level: PT
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2011-000877-29
+
+EudraCT Number:          2014-003491-23
+Sponsor Protocol Number: 4C-2014-06
+Sponsor Name:            AIBILI – Association for Innovation and Biomedical Research on Light and Image
+Full Title:              A non-randomised, open-label, multicenter phase 4 pilot study on the effect and safety of Iluvien® in chronic diabetic macular edema patients considered insufficiently responsive to available thera...
+Start Date:              2014-10-10
+Medical condition:       Chronic Diabetic Medical Edema
+Disease:
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2014-003491-23
+
+EudraCT Number:          2018-003076-13
+Sponsor Protocol Number: UIC1212
+Sponsor Name:            Instituto Português de Oncologia de Lisboa Francisco Gentil
+Full Title:              Effect of topical mesalazine on the formation of adenomas in rectal stumps or ileal pouches of familial adenomatous polyposis or MUTYH associated polyposis patients after colectomy
+Start Date:              2019-10-14
+Medical condition:       Familial adenomatous polyposis(FAP) and MUTYH-associated polyposis (MAP)
+Disease:                 Version: 20.1, SOC Term: 10010331 - Congenital, familial and genetic disorders, Classification Code: 10056981, Term: Adenomatous polyposis coli, Level: PT
+Disease:                 Version: 20.1, SOC Term: 10010331 - Congenital, familial and genetic disorders, Classification Code: 10059327, Term: Familial adenomatous polyposis, Level: LLT
+Population Age:          Adults
+Gender:                  Male, Female
+Trial protocol:          PT(Ongoing) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2018-003076-13
+
+EudraCT Number:          2015-001875-32
+Sponsor Protocol Number: UX003-CL202
+Sponsor Name:            Ultragenyx Pharmaceutical Inc.
+Full Title:              A Long-Term Open-Label Treatment and Extension Study of UX003 rhGUS Enzyme Replacement Therapy in Subjects with MPS 7
+Start Date:              2015-11-12
+Medical condition:       Mucopolysaccharidosis type 7 (MPS 7, Sly syndrome)
+Disease:
+Population Age:          Children, Adolescents, Under 18, Adults
+Gender:                  Male, Female
+Trial protocol:          Outside EU/EEA PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2015-001875-32
+
+EudraCT Number:          2004-000820-34
+Sponsor Protocol Number: P03548
+Sponsor Name:            Integrated Therapeutics Group, Incorporated-a subsidiary of Schering Plough
+Full Title:              Comparison of Three Regimens of PEG-Intron plus Ribavirin in the Treatment of Chronic Hepatitis C, Genotype 2 or 3, in Previously Untreated Patients
+Start Date:              2006-08-31
+Medical condition:       Chronic Hepatitis C, Genotype 2 or 3
+Disease:
+Population Age:          Adults, Elderly
+Gender:                  Male, Female
+Trial protocol:          PT(Completed) 
+Link:                    https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2004-000820-34
