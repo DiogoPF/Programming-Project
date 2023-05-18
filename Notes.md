@@ -185,6 +185,7 @@ CAT classification and reference number
 # Structure
 
 - Snapshot of European and Portuguese Trials
+
   - Country - geo graph
   - Year added
   - Public or private funding? (maybe by country too - which countries spend the most on trials)
@@ -197,15 +198,11 @@ CAT classification and reference number
   - Nr of subjects
   - Sample Age and Gender
   - Healthy subjects or patients
-
-
 - Portuguese Setting
 
 ### Random Code snippets
 
 ```python
-import pandas as pd
-
 # Assuming your DataFrame is called 'df'
 columns = ['Diagnosis', 'Prophylaxis', 'Therapy', 'Safety', 'Efficacy', 'Pharmacokinetic',
            'Pharmacodynamic', 'Bioequivalence', 'Dose response', 'Pharmacogenetic',
@@ -219,4 +216,25 @@ df['combination'] = df[columns].apply(lambda x: ''.join(x.astype(str)), axis=1)
 
 df['combination'].value_counts()
 
+```
+
+```python
+# Exclude rows with missing values in 'Country' or 'Therapeutic area' columns
+df_cleaned = df.dropna(subset=['Country', 'Therapeutic area'])
+
+# Group by 'Country' and 'Therapeutic area', and count the occurrences
+grouped = df_cleaned.groupby('Country')['Therapeutic area'].value_counts()
+
+# Iterate over each country
+for country in df_cleaned['Country'].unique():
+    # Filter the grouped data for the current country
+    country_data = grouped[country]
+  
+    # Sort the values in descending order and select the top 3
+    top_3 = country_data.sort_values(ascending=False).head(3)
+  
+    # Print the results for the current country
+    print(f"Top 3 therapeutic areas in {country}:")
+    print(top_3)
+    print()
 ```
