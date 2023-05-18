@@ -185,19 +185,22 @@ CAT classification and reference number
 # Structure
 
 - Snapshot of European and Portuguese Trials
-
-  - Country - geo graph
-  - Year added
-  - Public or private funding? (maybe by country too - which countries spend the most on trials)
+  - Country - geo graph - Member State
+  - Year added - Start Date
+  - Public or private funding? (maybe by country too - which countries spend the most on trials) - Status of the sponsor
+  - Therapeutic Areas - Therapeutic area
+  - More common trial objectives -  Scope( Diagnosis, prophylaxis, therapeutic, safety...)
+  - Phase - more common phases - code
+  - Duration Months/Years - Initial estimate of the duration of the trial: In the Member State concerned years
+  - Nr of subjects - Planned number of subjects to be included : In the member state
+  - Sample Age and Gender - Code
+  - Healthy subjects or patients - Healthy volunteers/Patients
+- Check trends:
   - Main characteristics of trials that are made in more than one country
-  - Therapeutic Areas
-  - ? Rare disease
-  - More common trial objectives ( Diagnosis, prophylaxis, therapeutic, safety...)
-  - Phase - more common phases
-  - Duration Months/Years
-  - Nr of subjects
-  - Sample Age and Gender
-  - Healthy subjects or patients
+  - Rare disease
+
+
+
 - Portuguese Setting
 
 ### Random Code snippets
@@ -238,3 +241,7 @@ for country in df_cleaned['Country'].unique():
     print(top_3)
     print()
 ```
+
+# Tasks
+
+- Check if rnec in eu_ds
