@@ -1,6 +1,6 @@
 # Repo Directory
 
-## 1. Data Acquisition
+## Data Acquisition
 
 #### Scrapper Bots:
 
@@ -19,14 +19,14 @@
 - [Life Expectancy](https://github.com/Dpf050/Programming-Project/blob/744abdc3d2ea6aff87ff4cba54e512fafb962381/DataSets/Life%20Expectancy.xlsx) - Life Expectancy data 2012 until 2021 for european countries from [Eurostat](https://ec.europa.eu/eurostat/web/main/data/database) (on May 19th)
 - [Ghe2019](https://github.com/Dpf050/Programming-Project/blob/532b41d1de3e1240ffbc285ebc5a672b52df3179/DataSets/ghe2019_death-rates-country.xlsx) - Death rates by country and cause of death from [WHO](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death) (on May 16th)
 - [Trials](https://github.com/Dpf050/Programming-Project/blob/cafa31719723bb14f37eba1ed59a488158e951d2/DataSets/trials.csv) - Clean version of [EUCTRegister](https://drive.google.com/file/d/1Lo6zbyhzTMww79L3ssETF51_E8rUqZi_/view?usp=share_link)
-- [Continents acording to our world in data](https://github.com/Dpf050/Programming-Project/blob/da0f2a22ec2196547bd771d2710799a935252466/DataSets/continents-according-to-our-world-in-data.csv) - data file containing countries and respective continents (used for filtering) from (on May 16th ) #MISSING
+- [Continents acording to our world in data](https://github.com/Dpf050/Programming-Project/blob/da0f2a22ec2196547bd771d2710799a935252466/DataSets/continents-according-to-our-world-in-data.csv) - data file containing countries and respective continents (used for filtering) from [Our World in Data](https://ourworldindata.org/grapher/continents-according-to-our-world-in-data) (on May 16th )
 
 
-## 2. Data Cleaning
+## Data Cleaning & Visualization
 
 #### Data Cleaning NB's
 
-- 
+-  
 
 
 
