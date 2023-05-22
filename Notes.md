@@ -1,16 +1,42 @@
 # Repo Directory
 
-## 1. Data Aquisition
+## 1. Data Acquisition
 
-Scrapper Bots:
+#### Scrapper Bots:
 
-- RNEC Scrapper - Gets trial info from RNEC and stores it in an csv file named [RNEC](https://github.com/Dpf050/Programming-Project/blob/59d364b01eb7bc6cc0d765ac57d1de6b4c7d65e3/DataSets/RNEC.csv) in Datasets folder.
-- EUCTRegister - Gets trial info from EUCTRegister (multiple files) and merges them into one. Due to github file constrictions they are stored in: [EU_data.zip](https://drive.google.com/file/d/1TlMjoSPUPPzriZOIh_PvQjVAw3Pml0nx/view?usp=share_link)(all files by batch) [EUCTRegister](https://drive.google.com/file/d/1Lo6zbyhzTMww79L3ssETF51_E8rUqZi_/view?usp=share_link)(merged csv)
-- 
+- RNEC Scrapper - Gets trial info from RNEC and stores it in an csv file named [RNEC](https://github.com/Dpf050/Programming-Project/blob/59d364b01eb7bc6cc0d765ac57d1de6b4c7d65e3/DataSets/RNEC.csv).
+- EUCTRegister - Gets trial info from EUCTRegister (multiple files) and merges them into one. Due to GitHub file constrictions they are stored in: [EU_data.zip](https://drive.google.com/file/d/1TlMjoSPUPPzriZOIh_PvQjVAw3Pml0nx/view?usp=share_link)(all files by batch) [EUCTRegister](https://drive.google.com/file/d/1Lo6zbyhzTMww79L3ssETF51_E8rUqZi_/view?usp=share_link)(merged csv).
+- Health life years - Script to get eurostat excel file regarding [Health Life Years](https://github.com/Dpf050/Programming-Project/blob/744abdc3d2ea6aff87ff4cba54e512fafb962381/DataSets/Healthy%20Life%20Years.xlsx).
+- Life Expectancy - Script to get eurostat excel file regarding [Life Expectancy](https://github.com/Dpf050/Programming-Project/blob/744abdc3d2ea6aff87ff4cba54e512fafb962381/DataSets/Life%20Expectancy.xlsx).
 
+ (TG message - small script with function to send message through telegram in case the scrapers stop )
+
+#### DataSets:
+
+- [RNEC](https://github.com/Dpf050/Programming-Project/blob/59d364b01eb7bc6cc0d765ac57d1de6b4c7d65e3/DataSets/RNEC.csv) - All trial infro scraped from [RNEC site](https://www.rnec.pt/) (on May 7th)
+- [EUCTRegister](https://drive.google.com/file/d/1Lo6zbyhzTMww79L3ssETF51_E8rUqZi_/view?usp=share_link) - All trial info scraped from [EU Clinical Trials Register site](https://www.clinicaltrialsregister.eu/) (on May 15th)
+- [Health Life Years](https://github.com/Dpf050/Programming-Project/blob/744abdc3d2ea6aff87ff4cba54e512fafb962381/DataSets/Healthy%20Life%20Years.xlsx) - Health life years data from 2011 until 2020 for european countries (on May 16th)
+- [Life Expectancy](https://github.com/Dpf050/Programming-Project/blob/744abdc3d2ea6aff87ff4cba54e512fafb962381/DataSets/Life%20Expectancy.xlsx) - Life Expectancy data 2012 until 2021 for european countries (on May 16th)
 
 
 ## 2. Data Cleaning
 
+## 3. Data Visualization
 
-## 3. Data Vizualization
+- André
+
+Mortality
+
+final note book
+
+ghecountry
+
+- Gonçalo
+
+Life Expectancy
+
+2019
+
+Health Life Years
+
+2019
